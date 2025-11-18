@@ -1,4 +1,4 @@
-module github.com/skilld-labs/plasmactl-publish
+module github.com/plasmash/plasmactl-publish
 
 go 1.23.2
 
